@@ -1,0 +1,19 @@
+body {
+  color: rgb(0, 2, 122);
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ebf4fa;
+}
+#Project {
+  background-color: #ebf4fa;
+}
+section {
+  padding-top: 5rem;
+}
+.gallery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  padding: 0;
+}
